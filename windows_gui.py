@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#test
 #コマンド入力
 #IM920.Write("RDNN")
 
