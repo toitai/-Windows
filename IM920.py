@@ -111,6 +111,7 @@ class IM920WinClass:
                     pass
 
                 return text
+            
 
     
 
