@@ -67,5 +67,6 @@ def writeSendData(BldData,state):
 #Excelファイルを起動する
 def openExcel():
 	subprocess.Popen(['start',"datasheet.xlsx"], shell=True)
+	
 
 
